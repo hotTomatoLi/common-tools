@@ -1,4 +1,4 @@
-package com.leegebe.common.tools;
+package com.leegebe.common.tools.randomtools;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -6,7 +6,7 @@ import java.util.Random;
 
 
 /**
- * 随机日期字符串生成器
+ *
  */
 public class RandomDateStrGenerator {
 	
@@ -30,6 +30,10 @@ public class RandomDateStrGenerator {
 		return sb.toString();
 	}
 
+    /**
+     * 生成日期串
+     * @return
+     */
 	public static String generateDateNumber(){
 		try {
 			Thread.sleep(1);
