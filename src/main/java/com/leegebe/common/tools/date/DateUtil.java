@@ -1,4 +1,4 @@
-package com.leegebe.common.tools.datetools;
+package com.leegebe.common.tools.date;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

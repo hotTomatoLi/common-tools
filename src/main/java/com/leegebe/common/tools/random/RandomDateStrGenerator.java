@@ -1,4 +1,4 @@
-package com.leegebe.common.tools.randomtools;
+package com.leegebe.common.tools.random;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
